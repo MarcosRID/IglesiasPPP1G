@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589840575 source:c:\users\usuario\desktop\programas en c\programacio 1 contar char\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
